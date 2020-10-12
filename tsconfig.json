@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "disableSizeLimit": true,
+    "target": "es5",
+    "lib": ["es2015", "dom"],
+    "module": "commonjs",
+    "strict": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "jsx": "react-native"
+  },
+  "formatCodeOptions": {
+    "indentSize": 2,
+    "tabSize": 2
+  }
+}
